@@ -1,0 +1,1 @@
+(self.webpackChunkrunlet_website=self.webpackChunkrunlet_website||[]).push([[74],{6401:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"tutorial","name":"tutorial","count":2,"permalink":"/blog/tags/tutorial"}')}}]);

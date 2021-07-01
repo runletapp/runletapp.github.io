@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://runletapp.github.io/blog</id>
+    <title>Runlet Blog</title>
+    <updated>2020-04-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://runletapp.github.io/blog"/>
+    <subtitle>Runlet Blog</subtitle>
+    <icon>https://runletapp.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Monitoring processes on Raspberry PI remotely with Runlet and htop]]></title>
+        <id>monitoring-processes-on-raspberry-pi</id>
+        <link href="https://runletapp.github.io/blog/monitoring-processes-on-raspberry-pi"/>
+        <updated>2020-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[htop is an interactive text-mode process viewer for Unix systems that is highly configurable and gives the option to view information such as CPU load, memory consumption, hostname, tasks, load averages, and uptime. It can be used alongside Runlet to monitor Raspberry PI processes remotely.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a backup system with Runlet]]></title>
+        <id>creating-backup-system</id>
+        <link href="https://runletapp.github.io/blog/creating-backup-system"/>
+        <updated>2019-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I will go through a quick overview of how to manage and run jobs from the command line using Runlet CLI. If you haven’t installed Runlet yet, I recommend you go to the releases page and check out our latest release that best fits your platform (Windows, Mac or Linux). Once installed you’ll need to sign in to link the newly installed daemon to your account.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Runlet]]></title>
+        <id>introducing-runlet</id>
+        <link href="https://runletapp.github.io/blog/introducing-runlet"/>
+        <updated>2019-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Runlet is a cloud-based job manager that offers device synchronization and reliable message delivery in a network of connected devices even after connectivity issues. It also provides an easy to use interface to manage jobs, trigger remote executions, and view logs from remotely executed jobs. You can also quickly get a new device started since all configuration files and logs are stored in the cloud and synced after sign in.]]></summary>
+    </entry>
+</feed>
