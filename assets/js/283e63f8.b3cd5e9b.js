@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrunlet_website=self.webpackChunkrunlet_website||[]).push([[4157],{2844:function(e){e.exports=JSON.parse('{"label":"Announcement","permalink":"/blog/tags/announcement","allTagsPath":"/blog/tags","count":1}')}}]);
